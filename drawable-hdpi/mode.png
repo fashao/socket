@@ -1,0 +1,160 @@
+gs>persp.viewSC:org.eclipse.jdt.ui.TypeHierarchy</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
+          <tags>persp.viewSC:uky.article.imageviewer.views.ImageView</tags>
+          <tags>persp.viewSC:org.eclipse.wst.common.snippets.internal.ui.SnippetsView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.PropertySheet</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:com.genuitec.eclipse.ui.HTMLView</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.j2eedt.ui.wizard.EARProjectWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.j2eedt.ui.wizard.AppClientProjectWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.j2eedt.ui.wizard.ConnectorProjectWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.JavaProjectWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewPackageCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewClassCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:com.aston.wizards.applet.NewAppletCreationWizard</tags>
+          <tags>persp.newWizSC:com.aston.wizards.html.NewHtmlCreationWizard</tags>
+          <tags>persp.newWizSC:com.aston.wizards.jsp.NewJspCreationWizard</tags>
+          <tags>persp.newWizSC:com.aston.wizards.xhtml.NewXhtmlCreationWizard</tags>
+          <tags>persp.newWizSC:com.aston.wizards.servlet.NewServletCreationWizard</tags>
+          <tags>persp.newWizSC:org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewSessionEJBWizard</tags>
+          <tags>persp.newWizSC:org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewEntityEJBWizard</tags>
+          <tags>persp.newWizSC:org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewMessageDrivenEJBWizard</tags>
+          <tags>persp.newWizSC:com.aston.wizards.xml.NewXmlCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.wst.xsd.ui.internal.wizards.NewXSDWizard</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.struts.org.easystruts.eclipse.wizards.NewFormCreationWizardX1_1</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.struts.org.easystruts.eclipse.wizards.NewActionCreationWizardX1_1</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.hibernate.perspective.HibernatePerspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.imageeditor.perspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.mobile.perspective</tags>
+          <tags>persp.perspSC:com.genuitec.dali.adapter.persistencePerspective</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.reporting.projectwizard</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.reporting.ReportPerspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective</tags>
+          <tags>persp.newWizSC:com.genuitec.eclipse.uml.wizard.NewUMLModelFileWizard</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.uml.actions</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.uml.umlPerspective</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.uml2.ui.actions</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.profileActionSet</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.web20.actionset</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.web20.perspective</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_L_rExeo0EeS0IeMip_wKiQ" selectedElement="_L_rExuo0EeS0IeMip_wKiQ" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_L_rExuo0EeS0IeMip_wKiQ" containerData="2000" selectedElement="_L_rEyeo0EeS0IeMip_wKiQ">
+              <children xsi:type="basic:PartStack" xmi:id="_L_rEx-o0EeS0IeMip_wKiQ" elementId="cvslocation" toBeRendered="false" containerData="4000">
+                <tags>newtablook</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_L_rEyOo0EeS0IeMip_wKiQ" elementId="org.eclipse.team.ccvs.ui.RepositoriesView" toBeRendered="false" ref="_L_rsTOo0EeS0IeMip_wKiQ"/>
+              </children>
+              <children xsi:type="basic:PartSashContainer" xmi:id="_L_rEyeo0EeS0IeMip_wKiQ" containerData="6000" selectedElement="_L_rEyuo0EeS0IeMip_wKiQ">
+                <children xsi:type="basic:PartStack" xmi:id="_L_rEyuo0EeS0IeMip_wKiQ" elementId="topleft" containerData="5500" selectedElement="_L_rEy-o0EeS0IeMip_wKiQ">
+                  <tags>newtablook</tags>
+                  <tags>active</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rEy-o0EeS0IeMip_wKiQ" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_L_rsLOo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rEzOo0EeS0IeMip_wKiQ" elementId="org.eclipse.jdt.ui.TypeHierarchy" ref="_L_rsSuo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rEzeo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_L_rsS-o0EeS0IeMip_wKiQ"/>
+                </children>
+                <children xsi:type="basic:PartStack" xmi:id="_L_rEzuo0EeS0IeMip_wKiQ" elementId="bottomleft" containerData="4500" selectedElement="_L_rEz-o0EeS0IeMip_wKiQ">
+                  <tags>newtablook</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rEz-o0EeS0IeMip_wKiQ" elementId="uky.article.imageviewer.views.ImageView" ref="_L_rsTeo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE0Oo0EeS0IeMip_wKiQ" elementId="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" toBeRendered="false" ref="_L_rsWOo0EeS0IeMip_wKiQ"/>
+                </children>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_L_rE0eo0EeS0IeMip_wKiQ" containerData="8000" selectedElement="_L_rE0uo0EeS0IeMip_wKiQ" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_L_rE0uo0EeS0IeMip_wKiQ" containerData="7500" selectedElement="_L_rE1Oo0EeS0IeMip_wKiQ">
+                <children xsi:type="advanced:Placeholder" xmi:id="_L_rE0-o0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.editorss" containerData="5220" ref="_L_rsHuo0EeS0IeMip_wKiQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_L_rE1Oo0EeS0IeMip_wKiQ" elementId="bottom" containerData="4780" selectedElement="_L_rE2Oo0EeS0IeMip_wKiQ">
+                  <tags>newtablook</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE1eo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.ProblemView" ref="_L_rsfeo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE1uo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.TaskList" ref="_L_rsgeo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE1-o0EeS0IeMip_wKiQ" elementId="com.genuitec.eclipse.ui.HTMLView" ref="_L_rsguo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE2Oo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.console.ConsoleView" ref="_L_rsheo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE2eo0EeS0IeMip_wKiQ" elementId="com.genuitec.eclipse.ast.deploy.core.serverview" ref="_L_rsjuo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE2uo0EeS0IeMip_wKiQ" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_L_rslOo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE2-o0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_L_rsleo0EeS0IeMip_wKiQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE3Oo0EeS0IeMip_wKiQ" elementId="com.genuitec.eclipse.migration.ui.projectView" ref="_L_rskeo0EeS0IeMip_wKiQ"/>
+                </children>
+              </children>
+              <children xsi:type="basic:PartSashContainer" xmi:id="_L_rE3eo0EeS0IeMip_wKiQ" containerData="2500" selectedElement="_L_rE3uo0EeS0IeMip_wKiQ">
+                <children xsi:type="basic:PartStack" xmi:id="_L_rE3uo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.ContentOutlineMStack" containerData="5500" selectedElement="_L_rE3-o0EeS0IeMip_wKiQ">
+                  <tags>newtablook</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE3-o0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.ContentOutline" ref="_L_rsWeo0EeS0IeMip_wKiQ"/>
+                </children>
+                <children xsi:type="basic:PartStack" xmi:id="_L_rE4Oo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.PropertySheetMStack" containerData="4500" selectedElement="_L_rE4eo0EeS0IeMip_wKiQ">
+                  <tags>newtablook</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_L_rE4eo0EeS0IeMip_wKiQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_L_rsb-o0EeS0IeMip_wKiQ"/>
+                </children>
+              </children>
+            </children>
+          </children>
+        </children>
+        <children xsi:type="advanced:Perspective" xmi:id="_L_rE4uo0EeS0IeMip_wKiQ" elementId="org.eclipse.debug.ui.DebugPerspective" selectedElement="_L_rE4-o0EeS0IeMip_wKiQ" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/debug_persp.gif">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.deploytools</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.test.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.desktop</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.screencapture</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.examples.actionSet</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.j2eedt.core.ejb</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.maven.pro.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.reporting</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.ws.xfire.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.about.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.product.actions</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.context.ui.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.tasks.ui.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.actionSet:org.eclipse.wb.core.ui.actionset</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.aop.ui.ActionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.aop.ui.matcher.actionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.beans.ui.actionSet</tags>
+          <tags>persp.actionSet:org.springframework.ide.eclipse.beans.search.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.debugActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.DebugView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.VariableView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.BreakpointView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.ExpressionView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
+          <tags>persp.viewSC:com.genuitec.eclipse.ast.deploy.core.serverview</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.hibernate.perspective.HibernatePerspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.imageeditor.perspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.mobile.perspective</tags>
+          <tags>persp.perspSC:com.genuitec.dali.adapter.persistencePerspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.uml.umlPerspective</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.web20.actionset</tags>
+          <tags>persp.perspSC:com.genuitec.myeclipse.perspective.myeclipseperspective</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.web20.perspective</tags>
+          <tags>persp.actionSet:fr.obeo.acceleo.gen.ui.actionSet</tags>
+          <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <tags>persp.perspSC:com.genuitec.eclipse.reporting.ReportPerspective</tags>
+          <tags>persp.newWizSC:org.eclipse.birt.report.designer.ui.ide.wizards.NewReportWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.birt.report.designer.ui.ide.wizards.NewTemplateWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.birt.report.designer.ui.wizards.NewLibraryWizard</tags>
+          <tags>persp.viewSC:org.eclipse.datatools.sqltools.result.resultView</tags>
+          <tags>persp.perspSC:org.eclipse.datatools.sqltools.sqleditor.perspectives.EditorPerspective</tags>
+          <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
+          <tags>persp.showIn:org.eclipse.egi

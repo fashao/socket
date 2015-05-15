@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ASCII"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_4tJOsOo0EeS0IeMip_wKiQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_4tJOseo0EeS0IeMip_wKiQ" bindingContexts="_4tP8b-o0EeS0IeMip_wKiQ">
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SocketManager.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/SocketManager.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/SocketManager.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Action.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/Action.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/Action.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SqlManager.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/SqlManager.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/SqlManager.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SaeUserInfo.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/SaeUserInfo.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/SaeUserInfo.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Updateuser.java&quot; tooltip=&quot;hello/src/hello/Updateuser.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/hello/src/hello/Updateuser.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;StateManager.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/StateManager.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/StateManager.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PropertiesUtil.java&quot; tooltip=&quot;Wifisocket/src/yang/wifisocket/PropertiesUtil.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Wifisocket/src/yang/wifisocket/PropertiesUtil.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Adduser.java&quot; tooltip=&quot;hello/src/hello/Adduser.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/hello/src/hello/Adduser.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
+  <tags>ModelMigrationProcessor.001</tags>
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_4tJOseo0EeS0IeMip_wKiQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_4tJOsuo0EeS0IeMip_wKiQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
+    <persistedState key="coolBarVisible" value="true"/>
+    <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1421227211421"/>
+    <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
+    <children xsi:type="basic:PartSashContainer" xmi:id="_4tJOsuo0EeS0IeMip_wKiQ" selectedElement="_4tJOs-o0EeS0IeMip_wKiQ" horizontal="true">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_4tJOs-o0EeS0IeMip_wKiQ" containerData="7500" selectedElement="_4tJOtOo0EeS0IeMip_wKiQ">
+        <children xsi:type="advanced:Perspective" xmi:id="_4tJOtOo0EeS0IeMip_wKiQ" elementId="com.genuitec.myeclipse.perspective.myeclipseperspective" selectedElement="_4tJOteo0EeS0IeMip_wKiQ" label="MyEclipse Java Enterprise" iconURI="platform:/plugin/com.genuitec.myeclipse.perspective/icons/myeclipse-16.png">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.deploytools</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.test.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.desktop</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.screencapture</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.examples.actionSet</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.j2eedt.core.ejb</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.maven.pro.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.actions.reporting</tags>
+          <tags>persp.actionSet:com.genuitec.eclipse.ws.xfire.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.about.actions</tags>
+          <tags>persp.actionSet:com.genuitec.myeclipse.product.actions</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.context.ui.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.tasks.ui.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.

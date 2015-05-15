@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" 
+         android:background="#66ccff"
+    
+    >
+
+ <TextView
+        android:id="@+id/text_time_mode"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:layout_alignParentTop="true"
+     android:layout_gravity="center_horizontal"
+     android:background="#6699ff"
+     android:gravity="center_horizontal|center_vertical"
+     android:text="@string/text_time_mode_list"
+     android:textSize="40dp" 
+     android:textColor="#000000"
+     
+     />
+ <TextView
+        android:id="@+id/text_now_mode"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+       android:layout_below="@+id/text_time_mode"
+
+     android:layout_gravity="center_horizontal"
+     android:background="#6699ff"
+     android:gravity="center_horizontal|center_vertical"
+     android:textSize="20dp" 
+     android:textColor="#000000"
+     
+     />
+  <Button
+        android:id="@+id/add_mode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/add_mode" 
+        android:layout_below="@+id/text_now_mode"
+        />
+
+    <com.baoyz.swipemenulistview.SwipeMenuListView
+        android:id="@+id/listView_time_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+       android:layout_below="@+id/add_mode"
+     android:background="#66ccff"
+           android:layout_margin="10dp"
+     
+       >
+    </com.baoyz.swipemenulistview.SwipeMenuListView>
+
+   
+   
+</RelativeLayout>

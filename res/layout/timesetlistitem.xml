@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    >
+
+    <TextView
+        android:id="@+id/device_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textColor="#ffffff"
+		android:paddingLeft="10dp"
+        android:gravity="left"  
+        android:padding="20dp"
+        />
+    <TextView
+        android:id="@+id/device_mesge"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:textSize="10dp"
+        android:textColor="#ffffff"
+        android:gravity="top|fill_vertical"
+        
+          
+        
+        />
+    
+</LinearLayout>
